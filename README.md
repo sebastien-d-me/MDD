@@ -29,3 +29,7 @@ Développez une application full-stack complète
 ### ✅ Démarrage ✅
 1. Effectuez la commande : `npm run start` dans le répertoire front
 2. Effectuez la commande `mvn spring-boot:run` dans le répertoire back
+
+### Compétences acquises
+- Intégrer le front-end et le back-end d'un programme en utilisant une API
+- Valider une documentation des outils de développement choisis dans le contexte d'un projet
